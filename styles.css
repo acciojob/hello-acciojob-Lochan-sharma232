@@ -1,16 +1,12 @@
-.main-content{
+main{
 	width:150px;
 	height:150px;
     background-color: #000000;
    padding: 10px;
 }
-.header{
-	text-align:center;
-	text-color: white;
+.hello{
+	text-align: center;
+	color: white;
 	margin-left: 32px;
 	padding: 10px;
-}
-.paragraph{
-	text-align:center;
-	color:white;
 }
