@@ -1,10 +1,12 @@
-.main{
+.main-content{
 	width:150px;
 	height:150px;
     background-color: #000000;
+   padding: 10px;
 }
-.hello-accio{
-	text-color:#ffffff;
-	left-margin: 32px;
-	padding:10px;
+.header{
+	text-align:center;
+	text-color: white;
+	margin-left: 32px;
+	padding: 10px;
 }
